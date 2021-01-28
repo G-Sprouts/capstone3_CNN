@@ -1,0 +1,2 @@
+,model,epochs,optimizer,evaluated label acc.,evaluated bbox acc.,mAP
+0,CNN,10,"SGD, lr = 0.01",.912,.722,.178
